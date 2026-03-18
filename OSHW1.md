@@ -1,6 +1,6 @@
 # Operating Systems Homework 1: Process Simulation Analysis
 
-- **Name:** Hwang, Jing-Lun
+- **Name:** Huang, Jing-Lun
 - **Student ID:** 114502558
 - **Department:** CSIE, National Central University
 - **Course:** Operating Systems (Spring 2026 - EMI)
